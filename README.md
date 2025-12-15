@@ -60,7 +60,7 @@ I enjoy building scalable applications, insightful dashboards, and solving real-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=poojarinikhil&theme=dark"/>
+  <img src="https://streak-stats.demolab.com/?user=vinzoo2734&theme=dark"/>
 </p>
 
 ---
