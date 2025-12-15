@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vinay MAhale
+# Hi 👋 I'm Vinay Mahale
 
 🎓 Upcoming Software Engineer  
 💻 Full Stack & Backend Developer  
@@ -58,12 +58,7 @@ I enjoy building scalable applications, insightful dashboards, and solving real-
 ---
 
 ## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinzoo2734&theme=dark"/>
-</p>
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=vinzoo2734&theme=dark)
 
 ## 🤝 How to Get Involved
 
