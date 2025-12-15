@@ -16,7 +16,7 @@ I enjoy building scalable applications, insightful dashboards, and solving real-
 
 ## 🚀 Currently Working On
 
-- 🔬 Multi-class Classification of Ovarian Cancer & Survival Prediction
+- 🔬 HRMS For Inspira Enterprises
 - 📊 Business Intelligence Projects (Power BI, IBM Cognos)
 - ⚙️ Backend APIs using FastAPI, Node.js & NestJS
 - 📈 Data-driven dashboards and analytics tools
