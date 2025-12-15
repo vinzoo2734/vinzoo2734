@@ -51,8 +51,8 @@ I enjoy building scalable applications, insightful dashboards, and solving real-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojarinikhil&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojarinikhil&layout=compact&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinzoo2734&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzoo2734&layout=compact&theme=dark" width="48%"/>
 </p>
 
 ---
