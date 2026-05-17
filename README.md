@@ -2,7 +2,7 @@
 
 🎓 Upcoming Software Engineer  
 💻 Full Stack & Backend Developer  
-📊 Data Analytics & BI Enthusiast  
+📊 Data Science & BI Enthusiast  
 📍 Mumbai, India
 
 ---
