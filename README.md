@@ -1,50 +1,81 @@
 # Hi 👋 I'm Vinay Mahale
 
-🎓 Upcoming Software Engineer  
-💻 Full Stack & Backend Developer  
-📊 Data Science & BI Enthusiast  
+🎓 Engineering Graduate from K.J. Somaiya School of Engineering (KJSSE)
+📚 Data Science & Applications @ IIT Madras
+📊 Business Analysis • Technology • Data Analytics
+🌍 Aspiring MSc Management & Finance Candidate
 📍 Mumbai, India
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate and dedicated software engineer with a strong interest in **full-stack development, backend systems, and data analytics**.  
-I enjoy building scalable applications, insightful dashboards, and solving real-world problems using technology.
+I am an engineering graduate with a passion for combining technology, analytics, and business to solve real-world problems. Through internships in **Business Analysis** and **Software Development**, I have gained experience translating business requirements into technical solutions, developing enterprise applications, and leveraging data to improve decision-making.
+
+As I prepare for graduate studies in **Management and Finance**, I am particularly interested in business strategy, digital transformation, financial analysis, and data-driven decision-making.
 
 ---
 
-## 🚀 Currently Working On
+## 💼 Professional Experience
 
-- 🔬 HRMS For Inspira Enterprises
-- 📊 Business Intelligence Projects (Power BI, IBM Cognos)
-- ⚙️ Backend APIs using FastAPI, Node.js & NestJS
-- 📈 Data-driven dashboards and analytics tools
+### Business Analyst & Intelligent Document Processing (IDP) Intern
+
+* Worked on business requirement analysis and functional documentation.
+* Assisted in designing Intelligent Document Processing workflows.
+* Contributed to document extraction and validation processes.
+* Collaborated with cross-functional teams to streamline business operations.
+
+### IT Intern
+
+* Developed and enhanced an enterprise Human Resource Management System.
+* Built frontend components using React and backend functionality with PostgreSQL.
+* Implemented attendance, holiday management, and geolocation-based features.
+* Worked on scalable business applications for enterprise users.
 
 ---
 
-## 🧰 Technology Stack
+## 🚀 Current Interests
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
+* 📊 Business Analysis
+* 📈 Finance & Financial Modelling
+* 🤖 Intelligent Automation & AI
+* 📉 Business Analytics
+* 🌐 Digital Transformation
+* ⚙️ Enterprise Software Development
 
-### 📊 BI & Analytics Tools
-- Power BI  
-- Excel & VBA  
-- IBM Cognos Analytics  
+---
+
+## 🧰 Technical Skills
+
+### Programming
+
+JavaScript • Python • C • PHP
+
+### Web Development
+
+React • Node.js • FastAPI • NestJS • HTML • CSS
+
+### Databases
+
+PostgreSQL • MySQL • MongoDB
+
+### Data & Analytics
+
+Power BI • IBM Cognos Analytics • Excel • VBA • SQL
+
+### Tools
+
+Git • GitHub • Docker • REST APIs
+
+---
+
+## 📌 Featured Projects
+
+* 💼 HR Management System
+* 📊 Personal Finance Dashboard
+* 🏥 Hospital Management System
+* 📈 Business Intelligence Dashboards
+* 🤖 Intelligent Document Processing Workflows
 
 ---
 
@@ -58,15 +89,20 @@ I enjoy building scalable applications, insightful dashboards, and solving real-
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=vinzoo2734&theme=dark)
 
-## 🤝 How to Get Involved
+![GitHub Streak](https://streak-stats.demolab.com?user=vinzoo2734\&theme=dark)
 
-If you're interested in collaborating, have questions about any of my projects, or simply want to connect, feel free to reach out.  
-I'm always open to new opportunities and enjoy networking with fellow developers and data enthusiasts.
+---
 
-Explore my repositories to learn more about my work.  
-Your feedback, suggestions, and contributions are highly appreciated — let’s build something great together!
+## 🎯 Career Goals
+
+I aspire to build a career at the intersection of **Business, Finance, Technology, and Analytics**. My long-term goal is to leverage analytical thinking and technological expertise to solve strategic business challenges and drive digital transformation within global organizations.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing technology, business, finance, analytics, and graduate studies. Feel free to explore my repositories or connect with me.
 
 ---
 
@@ -78,10 +114,9 @@ Your feedback, suggestions, and contributions are highly appreciated — let’s
   </a>
   <a href="https://www.linkedin.com/in/vinay-mahale/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a
+  </a>
 </p>
 
 ---
 
-Thank you for visiting my GitHub profile.  
-Happy coding! 🚀
+⭐ Thank you for visiting my GitHub profile! I'm always learning, building, and exploring new opportunities at the intersection of technology, business, and finance.
